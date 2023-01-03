@@ -1,6 +1,6 @@
 import torch
 
-hej2
+
 def mnist():
     # exchange with the corrupted mnist dataset
     train = torch.randn(50000, 784)
