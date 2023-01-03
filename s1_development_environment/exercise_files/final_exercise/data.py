@@ -6,4 +6,3 @@ def mnist():
     train = torch.randn(50000, 784)
     test = torch.randn(10000, 784) 
     return train, test
-Tilføjer det her fra lokal computer
